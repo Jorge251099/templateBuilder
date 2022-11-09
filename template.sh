@@ -1,5 +1,13 @@
 #!/bin/bash
 #
+#Purpose:
+#Version:1.0
+#Created Date: 8-11-2022
+#Modified Date:
+#Website:
+#Script name: templates
+#Author: Jorge Donaires Mendoza
+
 
 #Colours
 greenColour="\e[0;32m\033[1m"
